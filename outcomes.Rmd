@@ -1,0 +1,18 @@
+---
+title: "Middle School Network"
+author: "Shannon Coulter"
+date: "Last run: `r format(Sys.time(), '%F')`"
+output:
+  html_document:
+    code_folding: hide
+---
+
+## Outcomes
+
+*What changes occurred in the intervention participants? Did intervention participants outperform students who did not receive the intervention? Did participants accomplish the intervention aim?*
+
+The outcomes for this project...
+
+*To what extent can you attribute changes in participants to the implementation of the intervention?*
+
+The extent to which we can contribute outcomes to the implementation of the intervention...

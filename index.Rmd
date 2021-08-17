@@ -1,0 +1,24 @@
+---
+title: "Middle School Network"
+author: "Shannon Coulter"
+date: "Last run: `r format(Sys.time(), '%F')`"
+output:
+  html_document:
+    code_folding: hide
+---
+
+# Project Contact Information
+
+Bernadette Nguyen
+
+San Diego County Office of Education
+
+bernadette.nguyen@sdcoe.net
+
+# Project Details
+
+The San Diego County Office of Education's (SDCOE) District and School Improvement division in collaboration with Oceanside Unified School District facilitated both a  professional development (PD) institute and academy for school leaders, teachers, and support staff to help students develop academically, socially, and emotionally in order to stay on track to graduate high school college and career ready. This project included the following components. 
+
+  (1)	Middle School On Track Network (MSN): MSN is a year-long PD institute for teachers. ATI will focus on the development of algebraic reasoning via DNR‐based instruction. The format includes three main activities: teachers solve mathematical problems in small‐working groups, teachers discuss their own solutions and approaches in whole‐class settings, and teachers identify the relevance, the challenges, and the affordances, of what they have learned to what they teach.
+  
+  (2)	Continuous Improvement Academy: Two  academies will be held for schools supporting students entering 7th grade and one for students exiting 8th grade. Both  academies will target the development of proportional reasoning, with the latter focusing on development of the concept of linear functions through the lens of proportional reasoning. Both academies also serve as context in which OUSD will receive further DNR-based PD from Math for America San Diego trained Master Teaching Fellows.

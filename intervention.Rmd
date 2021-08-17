@@ -1,0 +1,22 @@
+---
+title: "Middle School Network"
+author: "Shannon Coulter"
+date: "Last run: `r format(Sys.time(), '%F')`"
+output:
+  html_document:
+    code_folding: hide
+---
+## Intervention
+
+To reduce the number of students becoming off track from graduating high school college and career ready, we hypothesized that when adults receive X in the system, the following changes would occur. The following logic model depicts the program theory for the network.
+```{r logic-model}
+include_graphics(here(
+  "images/logic_model.png"
+))
+```
+
+### Need 
+We determined the need for this intervention by examining achievement and demographic data across San Diego County middle schools. 
+
+Our primary questions for determining impact:
+*Does a Middle School Network implementing {named intervention} reduce the number of students who become off track from graduating high school ready for college and career?* 

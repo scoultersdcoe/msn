@@ -1,0 +1,15 @@
+---
+title: "Middle School Network"
+author: "Shannon Coulter"
+date: "Last run: `r format(Sys.time(), '%F')`"
+output:
+  html_document:
+    code_folding: hide
+---
+## Challenge
+
+One of the greatest crises we face in education is the dwindling numbers of high school graduates who are able to achieve the American Dream. Each year, fewer students are more likely to be better off than their parents are. In the 1950s, nine out of 10 high school graduates earned more than their parents did. Today fewer than 50% do (Chetty, et al., 2017). To address this issue, SDCOE designed the Middle School Network to ensure that more students graduate high school college and career ready.
+
+Unfortunately, students in San Diego County middle schools fall off a path from graduating from high school ready for college and career every year. About five in 10 San Diego County high school graduates are ready for college and career according to the California College and Career Indicator (CCI). This average, however, tends to obscure variability across schools and student groups. For example, some high schools graduate no students ready for college and career while others graduate 90% of their students ready. Differences in readiness are also apparent by subgroup. African American students are the least prepared (37%) while nearly half the white students (47%) and most Asian students (76%) are prepared.
+
+Based on this problem, how might we keep more students on track for the greatest number of opportunities in terms of college and career while these students are in middle school?

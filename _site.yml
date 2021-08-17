@@ -1,0 +1,24 @@
+name: "Middle School Network"
+navbar:
+  title: "Middle School Network"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Challenge"
+      href: challenge.html
+    - text: "Intervention"
+      href: intervention.html
+    - text: "Expected Impact"
+      href: expected_impact.html
+    - text: "Implementation"
+      href: implementation.html
+    - text: "Outcomes"
+      href: outcomes.html
+output:
+  html_document:
+    theme: paper
+    toc: true
+    toc_float: true
+    toc_depth: 5
+    smooth_scroll: true
+    code_folding: hide

@@ -1,0 +1,20 @@
+---
+title: "Middle School Network"
+author: "Shannon Coulter"
+date: "Last run: `r format(Sys.time(), '%F')`"
+output:
+  html_document:
+    code_folding: hide
+---
+
+## Implementation
+
+*What is the context where this work occurred? How many students? Composition of those students?*
+
+The Middle School Network involved XX schools and XXXX students...
+
+*Did the intervention occur as planned? Was the intervention a good fit for participants?*
+
+We examined fidelity of the intervention for each site. Below is ratings for fidelity at each school implementing the Network's intervention.
+
+*Did program users experience challenges with usability? Capacity? Or with on-going intervention support?*

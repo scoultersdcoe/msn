@@ -1,0 +1,29 @@
+---
+title: "Middle School Network"
+author: "Shannon Coulter"
+date: "Last run: `r format(Sys.time(), '%F')`"
+output:
+  html_document:
+    code_folding: hide
+---
+
+## Expected Impacts
+
+*What will change?*
+
+We will increase the number of black and American Indian students who complete Integrated I by the end of 8th grade.
+
+*How will you measure the change?*
+
+We will measure the change by analyzing course taking and comparing rates of students completing Integrated I before and after our intervention.
+
+*Describe your approach to determining impact?*
+
+We plan to establish a threshold for performance and monitor whether we met this threshold after a set amount of time.
+
+*What would you consider a meaningful change?*
+
+A 10% increase in the percentage of black and American Indian students completing Integrated I by June 2022
+
+*How certain do you need to be that this intervention or initiative created the change?*
+
