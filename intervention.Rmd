@@ -10,7 +10,7 @@ output:
 
 To reduce the number of students becoming off track from graduating high school college and career ready, we hypothesized that when adults receive X in the system, the following changes would occur. The following logic model depicts the program theory for the network.
 ```{r logic-model}
-include_graphics(here(
+knitr::include_graphics(here::here(
   "images/logic_model.png"
 ))
 ```
